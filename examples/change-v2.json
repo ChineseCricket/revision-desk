@@ -1,0 +1,36 @@
+{
+  "id": "P-01",
+  "task": "METHODS",
+  "issues": [
+    "R1-1"
+  ],
+  "kind": "change",
+  "title": "说明频率和观测范围",
+  "body": "The fictional log covers all four plots. This version incorporates the requested clarification.",
+  "edits": [
+    {
+      "line": 3,
+      "current_line": 3,
+      "before": "We visited the plots regularly.",
+      "after": "We visited all four plots once a week.",
+      "anchor": {
+        "page": 1,
+        "rect": [
+          56,
+          140,
+          630,
+          187
+        ]
+      },
+      "current_anchor": {
+        "page": 1,
+        "rect": [
+          56,
+          140,
+          630,
+          187
+        ]
+      }
+    }
+  ]
+}

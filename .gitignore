@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.reviewdesk/
+.local/
+*.sqlite3*
+*.log

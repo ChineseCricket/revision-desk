@@ -1,0 +1,35 @@
+{
+  "project": "Garden notebook · 虚构示例",
+  "tasks": [
+    {
+      "id": "METHODS",
+      "title": "说明观测方法"
+    },
+    {
+      "id": "LETTER",
+      "title": "回复审稿意见"
+    }
+  ],
+  "issues": [
+    {
+      "id": "R1-1",
+      "comment": "How often were the garden plots visited?"
+    }
+  ],
+  "original": {
+    "source": "original.txt",
+    "pages": [
+      {
+        "file": "original.png"
+      }
+    ]
+  },
+  "current": {
+    "source": "current.txt",
+    "pages": [
+      {
+        "file": "current.png"
+      }
+    ]
+  }
+}

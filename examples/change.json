@@ -1,0 +1,36 @@
+{
+  "id": "P-01",
+  "task": "METHODS",
+  "issues": [
+    "R1-1"
+  ],
+  "kind": "change",
+  "title": "给出观测频率",
+  "body": "The fictional field log lists one visit per week. Specify that frequency in the methods.",
+  "edits": [
+    {
+      "line": 3,
+      "current_line": 3,
+      "before": "We visited the plots regularly.",
+      "after": "We visited the plots weekly.",
+      "anchor": {
+        "page": 1,
+        "rect": [
+          56,
+          140,
+          630,
+          187
+        ]
+      },
+      "current_anchor": {
+        "page": 1,
+        "rect": [
+          56,
+          140,
+          630,
+          187
+        ]
+      }
+    }
+  ]
+}
